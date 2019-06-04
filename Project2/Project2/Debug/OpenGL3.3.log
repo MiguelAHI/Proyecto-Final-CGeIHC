@@ -1,0 +1,6 @@
+﻿  practica7_alumno.cpp
+c:\users\dyvyd\documents\visual studio 2017\prograficos\práctica7_v3.0\opengl3.3\opengl3.3\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\dyvyd\documents\visual studio 2017\prograficos\práctica7_v3.0\opengl3.3\opengl3.3\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\dyvyd\documents\visual studio 2017\prograficos\práctica7_v3.0\opengl3.3\opengl3.3\practica7_alumno.cpp(30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\dyvyd\documents\visual studio 2017\prograficos\práctica7_v3.0\opengl3.3\opengl3.3\practica7_alumno.cpp(163): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  OpenGL3.3.vcxproj -> C:\Users\dyvyd\Documents\Visual Studio 2017\ProGraficos\Práctica7_v3.0\OpenGL3.3\Debug\OpenGL3.3.exe

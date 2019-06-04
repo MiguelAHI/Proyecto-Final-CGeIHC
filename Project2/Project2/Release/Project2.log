@@ -1,0 +1,24 @@
+﻿  Shader_light.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(208): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(207): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(221): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(220): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(219): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+  Skybox.cpp
+  proyectoFinal.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.h(24): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.h(25): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(424): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(974): warning C4305: '=': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(979): warning C4305: '=': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(981): warning C4305: '=': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(1017): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(1035): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(1095): warning C4804: '>': uso no seguro del tipo 'bool' en la operación
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(1097): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  228 of 1171 functions (19.5%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Project2.vcxproj -> D:\Documentos\Universidad\Semestre8\CGeIHC\CGEIHC-ProyectoFinal\Project2\Release\Project2.exe

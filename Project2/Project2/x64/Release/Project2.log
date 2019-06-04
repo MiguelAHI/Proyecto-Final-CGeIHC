@@ -1,0 +1,144 @@
+﻿  Camera.cpp
+  DirectionalLight.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\directionallight.cpp(18): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\directionallight.cpp(19): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\directionallight.cpp(21): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\directionallight.cpp(22): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  Light.cpp
+  Material.cpp
+  Mesh_tn.cpp
+  Model.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\model.cpp(15): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'const std::string'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\model.cpp(15): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\model.cpp(15): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\model.cpp(50): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\model.cpp(108): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\model.cpp(125): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\model.cpp(132): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+  PointLight.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\pointlight.cpp(28): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\pointlight.cpp(29): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\pointlight.cpp(30): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\pointlight.cpp(32): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\pointlight.cpp(33): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\pointlight.cpp(34): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\pointlight.cpp(35): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  proyectoFinal.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.h(24): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.h(25): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(418): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(958): warning C4305: '=': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(963): warning C4305: '=': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(965): warning C4305: '=': truncamiento de 'double' a 'float'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(996): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(1014): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(1074): warning C4804: '>': uso no seguro del tipo 'bool' en la operación
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\proyectofinal.cpp(1076): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  Shader_light.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(100): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(100): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(103): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(103): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(106): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(106): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(109): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(109): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(112): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(112): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(115): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(115): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(118): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(118): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(128): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(128): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(131): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(131): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(134): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(134): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(137): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(137): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(140): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(140): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(143): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(143): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(146): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(146): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(149): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(149): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(152): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(152): note: considere el uso de ' %zd' en la cadena de formato
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(202): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(201): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(215): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(214): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(213): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\shader_light.cpp(261): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Skybox.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\skybox.cpp(30): warning C4267: 'argumento': conversión de 'size_t' a 'GLenum'; posible pérdida de datos
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.h(24): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.h(25): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.cpp(287): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.cpp(288): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.cpp(292): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.cpp(293): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.cpp(295): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\documentos\universidad\semestre8\cgeihc\cgeihc-proyectofinal\project2\project2\window.cpp(296): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+DirectionalLight.obj : error LNK2001: símbolo externo __imp___glewUniform1f sin resolver
+DirectionalLight.obj : error LNK2001: símbolo externo __imp___glewUniform3f sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewEnableVertexAttribArray sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewBindVertexArray sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewVertexAttribPointer sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewBindBuffer sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewDeleteVertexArrays sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewBufferData sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewGenVertexArrays sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewGenBuffers sin resolver
+Mesh_tn.obj : error LNK2001: símbolo externo __imp___glewDeleteBuffers sin resolver
+Model.obj : error LNK2001: símbolo externo aiGetMaterialTextureCount sin resolver
+Model.obj : error LNK2001: símbolo externo "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ) sin resolver
+Model.obj : error LNK2001: símbolo externo "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z) sin resolver
+Model.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ) sin resolver
+Model.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ) sin resolver
+Model.obj : error LNK2001: símbolo externo aiGetMaterialTexture sin resolver
+proyectoFinal.obj : error LNK2001: símbolo externo glfwSwapBuffers sin resolver
+proyectoFinal.obj : error LNK2001: símbolo externo __imp___glewUseProgram sin resolver
+proyectoFinal.obj : error LNK2001: símbolo externo glfwGetTime sin resolver
+proyectoFinal.obj : error LNK2001: símbolo externo glfwPollEvents sin resolver
+proyectoFinal.obj : error LNK2001: símbolo externo "__declspec(dllimport) class irrklang::ISoundEngine * __cdecl irrklang::createIrrKlangDevice(enum irrklang::E_SOUND_OUTPUT_DRIVER,int,char const *,char const *)" (__imp_?createIrrKlangDevice@irrklang@@YAPEAVISoundEngine@1@W4E_SOUND_OUTPUT_DRIVER@1@HPEBD1@Z) sin resolver
+proyectoFinal.obj : error LNK2001: símbolo externo __imp___glewUniformMatrix4fv sin resolver
+proyectoFinal.obj : error LNK2001: símbolo externo glfwWindowShouldClose sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewGetShaderiv sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewCompileShader sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewCreateShader sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewCreateProgram sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewUniform1i sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewGetShaderInfoLog sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewValidateProgram sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewGetProgramiv sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewGetUniformLocation sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewAttachShader sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewDeleteProgram sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewShaderSource sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewGetProgramInfoLog sin resolver
+Shader_light.obj : error LNK2001: símbolo externo __imp___glewLinkProgram sin resolver
+Skybox.obj : error LNK2001: símbolo externo __imp___glewActiveTexture sin resolver
+Texture.obj : error LNK2001: símbolo externo __imp___glewGenerateMipmap sin resolver
+Window.obj : error LNK2001: símbolo externo glfwGetWindowUserPointer sin resolver
+Window.obj : error LNK2001: símbolo externo glfwGetFramebufferSize sin resolver
+Window.obj : error LNK2001: símbolo externo glfwTerminate sin resolver
+Window.obj : error LNK2001: símbolo externo glfwInit sin resolver
+Window.obj : error LNK2001: símbolo externo glfwSetKeyCallback sin resolver
+Window.obj : error LNK2001: símbolo externo glfwSetWindowShouldClose sin resolver
+Window.obj : error LNK2001: símbolo externo glfwCreateWindow sin resolver
+Window.obj : error LNK2001: símbolo externo glfwSetInputMode sin resolver
+Window.obj : error LNK2001: símbolo externo glfwMakeContextCurrent sin resolver
+Window.obj : error LNK2001: símbolo externo glfwSetWindowUserPointer sin resolver
+Window.obj : error LNK2001: símbolo externo glfwDestroyWindow sin resolver
+Window.obj : error LNK2001: símbolo externo __imp_glewExperimental sin resolver
+Window.obj : error LNK2001: símbolo externo glfwSetCursorPosCallback sin resolver
+Window.obj : error LNK2001: símbolo externo glfwGetKeyName sin resolver
+Window.obj : error LNK2001: símbolo externo __imp_glewInit sin resolver
+D:\Documentos\Universidad\Semestre8\CGeIHC\CGEIHC-ProyectoFinal\Project2\x64\Release\Project2.exe : fatal error LNK1120: 55 externos sin resolver

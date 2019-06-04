@@ -1,0 +1,54 @@
+# Blender MTL File: 'guanteDER.blend'
+# Material Count: 6
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_1ce5451474e06ee6a45ea03582b8fb7b--scrap-numbers.jpg.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd 1ce5451474e06ee6a45ea03582b8fb7b--scrap-numbers.jpg
+
+newmtl None_METAL1.jpg
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd METAL1.jpg
+
+newmtl None_NONE
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_f5b2bfc1005b204bd166c917da96675e.jpg
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd f5b2bfc1005b204bd166c917da96675e.jpg
+
+newmtl None_f5b2bfc1005b204bd166c917da96675e.jpg.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd f5b2bfc1005b204bd166c917da96675e.jpg

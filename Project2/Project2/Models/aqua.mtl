@@ -1,0 +1,348 @@
+newmtl TORN:Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl TORN:Ce
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray2.tga
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 96.08
+newmtl TORN:Mat_chrom
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd black.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl flag:Gold_nice
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.22 0.21 0.20
+Ns 96.08
+newmtl flag:Vlevet1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.96 0.96 0.96
+map_Kd orange.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl flag:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 96.08
+newmtl flag1:Gold_nice
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.22 0.21 0.20
+Ns 96.08
+newmtl flag1:Vlevet1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.96 0.96 0.96
+map_Kd orange.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl flag1:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 96.08
+newmtl flag2:Gold_nice
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.22 0.21 0.20
+Ns 96.08
+newmtl flag2:Vlevet1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.96 0.96 0.96
+map_Kd orange.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl flag2:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 96.08
+newmtl flag3:Gold_nice
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.22 0.21 0.20
+Ns 96.08
+newmtl flag3:Vlevet1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.96 0.96 0.96
+map_Kd orange.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl flag3:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 96.08
+newmtl flag4:Gold_nice
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.22 0.21 0.20
+Ns 96.08
+newmtl flag4:Vlevet1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.96 0.96 0.96
+map_Kd orange.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl flag4:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 96.08
+newmtl flag5:Gold_nice
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.22 0.21 0.20
+Ns 96.08
+newmtl flag5:Vlevet1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.96 0.96 0.96
+map_Kd orange.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl flag5:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gray.tga
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 96.08
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fondo piedra.tga
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd brick.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blue.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blue.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base2.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base2.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base2.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blue.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd green.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl rope:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
